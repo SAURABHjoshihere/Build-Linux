@@ -71,7 +71,7 @@ Other useful/interesting ways to configure the kernel are:
       for fat32 support at the time.
 
   * ``make localyesconfig``is the same as above but everything gets compiled in
-      the kernel instead as a kernel module.
+      the kernel instead as a kernel module. jukeriya model
 
   * ``make allmodconfig`` generates a new config where all options are enabled
       and as much as possible as module.
